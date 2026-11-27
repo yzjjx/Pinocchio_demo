@@ -4,3 +4,10 @@
 代码可以查看：  
 `src/ABA_with_urdf.cpp`  
 这个代码主要动力学参数来自URDF文件，首先导入文件模型，再使用文件模型的动力学参数进行计算
+
+运行结果：
+
+<div align="center">
+    <img src="fig/ABA计算.png">
+    <br>
+</div>
